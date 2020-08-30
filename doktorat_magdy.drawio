@@ -1,1 +1,88 @@
-<mxfile host="app.diagrams.net" modified="2020-08-30T17:20:20.542Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" version="13.6.5" etag="T-cXMtYDZCvli96HiQiD" type="github"><diagram id="r9-fQBcDWzamoNvUdUTU">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-30T17:58:01.172Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="kM-ha5aUrbr81tzTF3L8" version="13.6.5" type="github">
+  <diagram id="r9-fQBcDWzamoNvUdUTU" name="Page-1">
+    <mxGraphModel dx="316" dy="-359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8ie-w5ALnWxVSAA2PKoj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8ie-w5ALnWxVSAA2PKoj-1" target="8ie-w5ALnWxVSAA2PKoj-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8ie-w5ALnWxVSAA2PKoj-1" value="Cooperative robotic manipulation using tactile sensors" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="50" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ie-w5ALnWxVSAA2PKoj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8ie-w5ALnWxVSAA2PKoj-3" target="8ie-w5ALnWxVSAA2PKoj-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8ie-w5ALnWxVSAA2PKoj-3" value="Przegląd sensorów" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ie-w5ALnWxVSAA2PKoj-4" value="Prace nad nowymi sensorami" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ie-w5ALnWxVSAA2PKoj-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8ie-w5ALnWxVSAA2PKoj-5" target="8ie-w5ALnWxVSAA2PKoj-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8ie-w5ALnWxVSAA2PKoj-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8ie-w5ALnWxVSAA2PKoj-5" target="8ie-w5ALnWxVSAA2PKoj-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8ie-w5ALnWxVSAA2PKoj-5" value="Modelowanie sensorów na potrzeby sterowania" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ie-w5ALnWxVSAA2PKoj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8ie-w5ALnWxVSAA2PKoj-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="350" />
+              <mxPoint x="590" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ie-w5ALnWxVSAA2PKoj-6" value="Metody sterowania&amp;nbsp;&lt;br&gt;z zastosowaniem&amp;nbsp;&lt;br&gt;tych czujników" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ie-w5ALnWxVSAA2PKoj-8" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8ie-w5ALnWxVSAA2PKoj-4" target="8ie-w5ALnWxVSAA2PKoj-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="440" as="sourcePoint" />
+            <mxPoint x="440" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ie-w5ALnWxVSAA2PKoj-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8ie-w5ALnWxVSAA2PKoj-12" target="8ie-w5ALnWxVSAA2PKoj-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8ie-w5ALnWxVSAA2PKoj-12" value="Opracowanie modelu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ie-w5ALnWxVSAA2PKoj-13" value="Obraz mikroskopowy&amp;nbsp;&lt;br&gt;-&amp;gt; parametry modelu czujnika&lt;br&gt;&lt;br&gt;(monte carlo, wysokość i nachylenie struktur a wynik dla sensora)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="480" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="8ie-w5ALnWxVSAA2PKoj-16" value="Klasyczna identyfikacja parametryczna modelu czujnika (równania różniczkowe)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="480" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8ie-w5ALnWxVSAA2PKoj-20" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8ie-w5ALnWxVSAA2PKoj-5" target="8ie-w5ALnWxVSAA2PKoj-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="440" as="sourcePoint" />
+            <mxPoint x="440" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="408" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ie-w5ALnWxVSAA2PKoj-21" value="Walidacja modelu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ie-w5ALnWxVSAA2PKoj-24" value="Klasyczne sterowanie&amp;nbsp;&lt;br&gt;bez sensorów dotyku" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ie-w5ALnWxVSAA2PKoj-26" value="Przejazd z A do B z unikaniem kolizji (i ewentualną mapą)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ie-w5ALnWxVSAA2PKoj-27" value="Przejazd z A do B z zachowaniem ograniczeń sił kontaktu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ie-w5ALnWxVSAA2PKoj-28" value="Przejazd z A do B z zachowaniem ograniczeń sił kontaktu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
