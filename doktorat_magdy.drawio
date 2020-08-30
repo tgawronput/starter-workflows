@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-30T18:22:46.029Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="1DB362jKxWJ9i6gJ4Qw-" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-30T18:27:11.533Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="bLVmYzH8WKogMlhU1QOA" version="13.6.5" type="github">
   <diagram id="r9-fQBcDWzamoNvUdUTU" name="Page-1">
-    <mxGraphModel dx="316" dy="-439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="316" dy="-319" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,6 +85,12 @@
         <mxCell id="8ie-w5ALnWxVSAA2PKoj-24" value="Klasyczne sterowanie&amp;nbsp;&lt;br&gt;bez sensorów dotyku" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="529" y="770" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8ie-w5ALnWxVSAA2PKoj-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8ie-w5ALnWxVSAA2PKoj-26" target="8ie-w5ALnWxVSAA2PKoj-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8ie-w5ALnWxVSAA2PKoj-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.408;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8ie-w5ALnWxVSAA2PKoj-26" target="8ie-w5ALnWxVSAA2PKoj-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8ie-w5ALnWxVSAA2PKoj-26" value="Przejazd z A do B z unikaniem kolizji (i ewentualną mapą)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="880" width="120" height="60" as="geometry" />
         </mxCell>
@@ -107,7 +113,7 @@
           <mxGeometry x="77" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8ie-w5ALnWxVSAA2PKoj-45" value="Pole wektorowe w przestrzeni zadania wyznaczone na podstawie zagregowanej informacji o siłach" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="217" y="990" width="120" height="90" as="geometry" />
+          <mxGeometry x="230" y="990" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="8ie-w5ALnWxVSAA2PKoj-46" value="Nie wiadomo/ może tylko przedstawić zastosowania lub podejście learning-based" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="620" y="1000" width="120" height="100" as="geometry" />
